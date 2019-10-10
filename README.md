@@ -2,7 +2,7 @@
 workshop ministrado por mim sobre Rest Api com Spring boot 
 
 ##  Neste Workshop foi ensinado:
-* Implementação dos métodos: **Get, Pot, Delete, Insert** 
+* Implementação dos métodos: **Get, Post, Delete, Insert** 
 * Conexão com banco de dados H2
 * Método Swagger e acessar o swagger através de uma URL
 * Subir a aplicação no GitHub 
