@@ -8,4 +8,4 @@ workshop ministrado por mim sobre Rest Api com Spring boot
 * Subir a aplicação no GitHub 
 * Primeiros passos para ter o deploy na nuvem
 
-(Link da apresentação aqui)[https://docs.google.com/presentation/d/1gZHdiceYIteA_lDCf6Ua6vnvziRPp5ozGCMjr0ohtxU/edit?usp=sharing]
+[Link da apresentação aqui](https://docs.google.com/presentation/d/1gZHdiceYIteA_lDCf6Ua6vnvziRPp5ozGCMjr0ohtxU/edit?usp=sharing)
