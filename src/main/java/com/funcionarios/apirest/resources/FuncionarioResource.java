@@ -25,7 +25,7 @@ import com.funcionarios.apirest.models.Funcionario;
 
 //Essa é a classe que vai receber as requisições http
 @RestController
-@RequestMapping(value="api")
+@RequestMapping(value="/api")
 @Api(value="API Rest Funcionarios")
 //pra liberar todos os dominios para acessar minha API
 @CrossOrigin(origins="*")
